@@ -1,2 +1,2 @@
-# CahierTexteProject
-This project is to create the "CahierTexte" Application Example
+--Fichier Lisez moi
+Ce projet a pour but de tester Git/GitHub
